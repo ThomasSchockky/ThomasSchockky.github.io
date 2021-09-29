@@ -1,0 +1,18 @@
+body{
+    background-color: orange;
+}
+
+img{
+    max-width: 300px;
+}
+
+h1{
+    color: rgb(3, 89, 187);
+    font-size: 3rem;
+}
+
+
+.map{
+    border: 5px black double;
+    border-radius: 15px;
+}
